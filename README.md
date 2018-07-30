@@ -6,7 +6,7 @@ A hardcoded naive bayes with python.
 This project is part of the <b>#100DaysOfMLCode</b> challenge proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 ## Jupyter notebooks ##
-* Hardcoded simple linear regression: [linear-regression-hardcoded.ipynb](http://nbviewer.jupyter.org/github/touir1/naive-bayes/blob/master/naive-bayes-hardcoded.ipynb).
+* Hardcoded naive bayes: [naive-bayes-hardcoded.ipynb](http://nbviewer.jupyter.org/github/touir1/naive-bayes/blob/master/naive-bayes-hardcoded.ipynb).
 
 ## Dependencies ##
 I'm using [pipenv](https://docs.pipenv.org/) for the dependencies. So for installing dependencies, you need to:
